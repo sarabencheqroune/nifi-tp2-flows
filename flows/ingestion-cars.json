@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1793489935763,
+    "description" : "Ingestion des fichiers cars : validation, MySQL et Parquet",
+    "identifier" : "ingestion-cars",
+    "lastModifiedTimestamp" : 1793489935763,
+    "name" : "ingestion-cars",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
